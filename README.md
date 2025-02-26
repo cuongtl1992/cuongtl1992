@@ -2,7 +2,7 @@
 
 > Technical Manager @ KiotViet | Architecture Enthusiast | Community Builder
 
-Vietnamese tech leader passionate about elegant architecture and building high-performance engineering teams. Olympiad champion with a knack for solving complex problems through clean design and scalable solutions.
+Vietnamese tech leader passionate about elegant architecture and building high-performance engineering teams. Problem solver who creates scalable solutions through clean design and pragmatic approaches.
 
 ## 🛠️ Tech I Love
 `Architecture Design` `Event-Driven Systems` `Clean Code` `.NET Core` `Angular` `Flutter` 
@@ -18,3 +18,11 @@ Turn coffee into architecture diagrams. Scale engineering teams. Build developer
 📫 For my full journey: [lecuong.me](https://lecuong.me)
 
 Let's connect and talk tech!
+
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuongtl1992&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongtl1992&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cuongtl1992)
