@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Cuong Tran
 
-> Technical Manager @ KiotViet | Architecture Enthusiast | Community Builder | Team Builder
+> Technical Director @ KiotViet | Architecture Enthusiast | Community Builder | Team Builder
 
 Vietnamese tech leader passionate about elegant architecture and building high-performance engineering teams. Problem solver who creates scalable solutions through clean design and pragmatic approaches.
 
